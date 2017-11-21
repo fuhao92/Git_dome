@@ -1,4 +1,3 @@
-
 ww3484yrrrrrrttooopoppotttttttttttttttttttttttttttttttttt00000000000000000yyyrryyyiiiyyyyyyyyyyyyyyytytyttyyyyyyyyyyytt
 ggggggggggggguettwwrrrrhhy4843ww
 <<<<<<< ours
@@ -6,7 +5,18 @@ r
 =======55
 000000000000000000000000000UU
 >>>>>>> theirs444
+<<<<<<< HEAD
+ttt65555
+teststr
+=======
 ttt65
+<<<<<<< HEAD
 test--123
 test--1234
 eeeeeeeeeeeeeeeeeeeeeee
+=======
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+>>>>>>> f8f4d2b7f836ac7be785bd01a843332ffb16d485
+testttttttttttttttttttseseeeeeeeeeeeeeeeeeee
+yyyyyh
+>>>>>>> 2300bef1548eeff7408e0f48ddf6367145f70d38
