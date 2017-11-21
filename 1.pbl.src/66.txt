@@ -1,4 +1,4 @@
-67677788<<<<<<< HEAD
+567677788<<<<<<< HEAD
 tt7rr
 =======
 tt7qqqqqqqqqqqqqqqqqqqqq
@@ -9,10 +9,4 @@ htesteststet
 jjjjjjjjjjjjjjjj
 yyyyyyyyccccc
 kkkkkk
-uuuuuuuuuuuuuuuuuuuuu
-444
-99
-88
-77
-uu
-77
+rrrrrrrrrrrrrrrrrrrr
