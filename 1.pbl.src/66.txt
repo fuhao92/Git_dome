@@ -17,4 +17,7 @@ rrrrrrrrrrrrrrrrrrrr
 =======
 777777
 iiii
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> 9407b82d2bc4e7f5976f22de6e4b08a4e0e6cbb7
