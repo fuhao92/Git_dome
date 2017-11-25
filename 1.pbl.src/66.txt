@@ -12,4 +12,16 @@ kkkkkk
 rrrrrrrrrrrrrrrrrrrr
 6
 47
+<<<<<<< HEAD
 777777ee
+=======
+<<<<<<< HEAD
+77777777
+=======
+777777
+iiii
+<<<<<<< HEAD
+>>>>>>> master
+=======
+>>>>>>> 9407b82d2bc4e7f5976f22de6e4b08a4e0e6cbb7
+>>>>>>> 19f7b486b8d88a1de49c4add33ecba9f1e0c2cd7
