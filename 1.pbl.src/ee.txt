@@ -46,4 +46,8 @@ ll66
 >>>>>>> 19f7b486b8d88a1de49c4add33ecba9f1e0c2cd7
 hahhahahhahahahha
 555hhhhhhhhhh 
+<<<<<<< HEAD
 uu
+=======
+uu 66
+>>>>>>> master
