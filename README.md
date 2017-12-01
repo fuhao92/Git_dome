@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 tttttttttttttttttttttt
 test
 # Git_dome
@@ -23,3 +24,7 @@ Test_Git_Respository66HHHHGGGGGtKKKLLKKlrt
 >>>>>>> 083f85040b41bbad3a58423a2851e3a48c642fc2
 
 
+=======
+# xxxxx
+sadsasda
+>>>>>>> 4da5308d0d290712c796550acaf59b4a6c92c588
