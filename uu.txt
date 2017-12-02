@@ -1,11 +1,29 @@
+456778ee5
+uuuu
+yyyy
+<<<<<<< HEAD
+=======
+ttt
+>>>>>>> 871a51ba422209c1397a4f93ba4038136d3e9e1f
+tt6666
+>>>>>>> 19f7b486b8d88a1de49c4add33ecba9f1e0c2cd7
+<<<<<<< HEAD
+<<<<<<< HEAD44
+tstes2
+2w
 
-ww3484yrrrrrrttooopoppotttttttttttttttttttttttttttttttttt00000000000000000yyyrryyyiiiyyyyyyyyyyyyyyytytyttyyyyyyyyyyytt
-ggggggggggggguettwwrrrrhhy4843ww
-<<<<<<< ours
-r
-=======55
-000000000000000000000000000UU
->>>>>>> theirs444
-ttt65
-test--123
-test--1234
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+tstes2
+2w
+
+>>>>>>> c13c816879ea766573565105d6edc2eddb96bf08
+=======
+tstes2
+2w
+
+>>>>>>> c13c816879ea766573565105d6edc2eddb96bf08
+>>>>>>> e99a0f2adb88558bfb81f59b1a5a64661363c318
