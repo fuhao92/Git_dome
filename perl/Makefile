@@ -1,6 +1,4 @@
 #
-# Makefile for perl support modules and routine
-#
 makfile:=perl.mak
 modules =
 
