@@ -1,4 +1,5 @@
 #
+#**
 makfile:=perl.mak
 modules =
 
